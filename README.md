@@ -49,7 +49,7 @@ This script enables a real-time, voice-based conversation with an LLM hosted on 
 
 3. **Install dependencies:**
 	```bash
-	pip install pyaudio openai
+	pip install pyaudio openai[realtime] azure-identity
 	```
 
 4. **Set environment variables:**
