@@ -54,7 +54,7 @@ This script enables a real-time, voice-based conversation with an LLM hosted on 
 
 4. **Set environment variables:**
 	- `AZURE_OPENAI_ENDPOINT`: Your Azure OpenAI endpoint URL (e.g., `https://your-resource.openai.azure.com`)
-	- `AZURE_OPENAI_DEPLOYMENT_NAME`: The name of your Azure OpenAI deployment
+	- `AZURE_OPENAI_DEPLOYMENT_NAME`: The name of your Azure OpenAI deployment (e.g., `gpt-realtime-1.5`)
 	- `AZURE_OPENAI_API_KEY`: Your Azure OpenAI API key
 
 	You can set these in your terminal:
